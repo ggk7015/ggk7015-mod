@@ -3,11 +3,13 @@
   "id": "ggk7015-mod",
   "version": "${version}",
   "name": "ggk7015-mod",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "description": "GOC anomaly strike sword: applies Anomaly Suppression (slow + attack down) on hit.",
+  "authors": ["ggk7015"],
+  "contact": {
+    "homepage": "https://github.com/ggk7015/ggk7015-mod",
+    "sources": "https://github.com/ggk7015/ggk7015-mod"
+  },
   "license": "MIT",
-  "icon": "assets/ggk7015-mod/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
